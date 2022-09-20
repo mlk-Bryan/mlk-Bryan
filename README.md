@@ -1,6 +1,6 @@
-- 👋 Hi, I’m  Bryan Luiz
-- 👀  Aluno da Escola Dona Branca
-- 🌱 I’m currently learning  criação d e  html
+- :raising_hand_man: Hi, I’m  Bryan Luiz
+- :man_student:  Aluno da Escola Dona Branca
+- 	:crocodile: I’m currently learning  criação d e  html
 - :speech_balloon: meu contato é  bryan.luiz@escola.pr.gov.br
 
 <!---
