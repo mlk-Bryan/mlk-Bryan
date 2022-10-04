@@ -1,7 +1,7 @@
 - :raising_hand_man: Hi, I’m  Bryan Luiz
-- :man_student:	:soccer:  Aluno da Escola Dona Branca
-- 	:crocodile: I’m currently learning  criação d e  html
-- :speech_balloon: meu contato é  bryan.luiz@escola.pr.gov.br
+- :man_student:	:soccer:  Student at Dona Branca School
+- 	:crocodile: I’m currently learning  html creation
+- :speech_balloon: my contact is  bryan.luiz@escola.pr.gov.br
 
 <!---
 mlk-Bryan/mlk-Bryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
